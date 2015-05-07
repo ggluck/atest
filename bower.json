@@ -1,8 +1,18 @@
 {
-  "name": "test",
+  "name": "atest",
   "version": "0.0.1",
+  
   "dependencies": {
   },
+  "main": [
+    "dist/atest.js",
+    "dist/atest.min.js"
+  ],
+  "ignore": [
+    "docs",
+    "test",
+    "CONTRIBUTING.md"
+  ],
   "devDependencies": {
     "angular": "latest",
     "angular-mocks": "latest",
