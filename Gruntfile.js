@@ -160,7 +160,7 @@ module.exports = function(grunt) {
       },  */
 	  exe: {
 	  files:{
-		'dist/test.js':['src/test.js','src/red/red.js']
+		'dist/atest.js':['src/test.js','src/red/red.js']
 	  }
 		//src: ['src/test.js','src/red/red.js'],
 		//dest: '<%= yo.dist %>/<%= pkg.name %>.js',
@@ -171,7 +171,7 @@ module.exports = function(grunt) {
         banner: '<%= meta.banner %>'
       },
       dist: {
-        src: 'dist/test.js',
+        src: 'dist/atest.js',
         dest: '<%= yo.dist %>/<%= pkg.name %>.min.js'
       }
     }

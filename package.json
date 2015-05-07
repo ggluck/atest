@@ -1,12 +1,12 @@
 {
-  "name": "test",
+  "name": "atest",
   "version": "0.0.1",
-  "description": "test",
+  "description": "atest",
   "keywords": [
     "angular"
   ],
-  "homepage": "https://github.com/ggluck/test",
-  "bugs": "https://github.com/ggluck/test/issues",
+  "homepage": "https://github.com/ggluck/atest",
+  "bugs": "https://github.com/ggluck/atest/issues",
   "author": {
     "name": "gx",
     "email": "458389897@qq.com",
@@ -14,7 +14,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/ggluck/test.git"
+    "url": "https://github.com/ggluck/atest.git"
   },
   "licenses": [
     {
